@@ -37,7 +37,7 @@ A simple and efficient **command-line Weather app** built using **Node.js**, all
 
 ## Screenshots 📸
 
-![Weather Query]()
+![Weather Query](Screenshot2025-03-18114709.png)
 *User entering city name in CLI*
 
 ## Usage 📌
