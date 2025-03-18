@@ -1,4 +1,4 @@
-# CLI Weather App ☁️🌡
+# NodeJS Weather App ☁️🌡
 
 A simple and efficient **command-line Weather app** built using **Node.js**, allowing users to check current weather conditions directly in the terminal.
 
@@ -37,7 +37,7 @@ A simple and efficient **command-line Weather app** built using **Node.js**, all
 
 ## Screenshots 📸
 
-![Weather Query](screenshots/weather-query.png)
+![Weather Query]()
 *User entering city name in CLI*
 
 ## Usage 📌
